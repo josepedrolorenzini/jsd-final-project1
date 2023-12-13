@@ -41,7 +41,8 @@ function SearchForm(props) {
     <form  onSubmit={handleSubmit} className="mortyPages">   
    <div>
       <label htmlFor="selectNumber">Select a Page Number:</label>
-      <select id="selectNumber" onChange={handleSelectChange} value={pageNumber}>
+      <select id="selectNumber" onChange={handleSelectChange} value={pageNumber}> 
+      {/* using pagenumber get straigh to load the first page */}
         {optionsArray.map((number) => (
           <option key={number} value={number}>
             {number}
