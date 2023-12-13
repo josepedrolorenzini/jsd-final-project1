@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/jsd-final-project1/static/css/main.c601366f.css",
+    "main.css": "/jsd-final-project1/static/css/main.852e2b4c.css",
     "main.js": "/jsd-final-project1/static/js/main.c9f60334.js",
     "static/media/logo_rick_transparatent.png": "/jsd-final-project1/static/media/logo_rick_transparatent.fa106a76429aca69346e.png",
     "index.html": "/jsd-final-project1/index.html",
-    "main.c601366f.css.map": "/jsd-final-project1/static/css/main.c601366f.css.map",
+    "main.852e2b4c.css.map": "/jsd-final-project1/static/css/main.852e2b4c.css.map",
     "main.c9f60334.js.map": "/jsd-final-project1/static/js/main.c9f60334.js.map"
   },
   "entrypoints": [
-    "static/css/main.c601366f.css",
+    "static/css/main.852e2b4c.css",
     "static/js/main.c9f60334.js"
   ]
 }
