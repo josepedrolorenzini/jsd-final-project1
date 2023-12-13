@@ -4,7 +4,7 @@ import { Route, Routes, Link, BrowserRouter as Router, Navigate } from 'react-ro
 import {useNavigate} from 'react-router-dom'
 
 function SearchForm(props) {
-     // Generate an array of 20 numbers (e.g., [1, 2, 3, ..., 20])
+     // Generate an array of 42 numbers (e.g., [1, 2, 3, ..., 20])
   const optionsArray = Array.from({ length: 42 }, (_, index) => index + 1);
   const [pageNumber , setpageNumber] = useState('') ;
   const [filterTerm, setFilterTerm]  = useState('');
