@@ -36,3 +36,5 @@ display: table;
 
     form{    font-size: 20px;
       font-family: fantasy;}
+
+      .FilterSearch , .mortyPages{text-align: center;}
